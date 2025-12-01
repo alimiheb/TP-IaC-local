@@ -15,5 +15,5 @@ variable "db_password" {
 
 variable "app_port_external" {
   type    = number
-  default = 8082
+  default = 8083
 }
